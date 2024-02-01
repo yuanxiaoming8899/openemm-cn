@@ -1,28 +1,12 @@
-**Resources for OpenEMM**
-
-Website of OpenEMM with **Marketing Information**:
-
-[OpenEMM Website](https://www.agnitas.de/en/e-marketing_manager/email-marketing-software-variants/openemm/)
-
-Wiki of OpenEMM with **Technical Information**:
-
-[OpenEMM Wiki](https://wiki.openemm.org)
-
-Download of **Executable Code** of OpenEMM:
-
-[OpenEMM Binaries Download](https://www.agnitas.de/en/download/openemm-binaries/)
-
-Forum for OpenEMM **Support**:
-
-[OpenEMM Forum](https://forum.openemm.org)
-
-**Source Code** of OpenEMM
-
-[OpenEMM GitHub Repository](https://github.com/agnitas-org/openemm)
-
-
-
-
-
-
-
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM 资源</font></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM 的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">营销信息</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站：</font></font></p>
+<p dir="auto"><a href="https://www.agnitas.de/en/e-marketing_manager/email-marketing-software-variants/openemm/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM 网站</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM 的 Wiki 及</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">技术信息</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<p dir="auto"><a href="https://wiki.openemm.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM 维基</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可执行代码</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载：</font></font></p>
+<p dir="auto"><a href="https://www.agnitas.de/en/download/openemm-binaries/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM 二进制文件下载</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM支持</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论坛</font><font style="vertical-align: inherit;">：</font></font></p>
+<p dir="auto"><a href="https://forum.openemm.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM 论坛</font></font></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM</font><strong><font style="vertical-align: inherit;">源代码</font></strong></font></p>
+<p dir="auto"><a href="https://github.com/agnitas-org/openemm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenEMM GitHub 存储库</font></font></a></p>
+</article></div>
